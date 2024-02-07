@@ -1,0 +1,1 @@
+FOR_LOOP_PATTERN = r"{% for \$([a-zA-Z0-9_]+) in \$([a-zA-Z0-9_]+) %}(.*?){% endfor %}"
